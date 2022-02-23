@@ -1,5 +1,11 @@
 ## Hi, I'm Kimberlee! 
 
+```mermaid
+flowchart TD
+  A[Pull requests] --> B[Kimbelee Johnson]
+  C[Press releases] --> B[Kimberlee Johnson]
+```
+
 I'm a developer and technical writer. Most recenly, I was part of the core team that built [Daily](https://github.com/daily-co)'s new [docs platform](https://docs.daily.co/) using TypeScript, Next.js, Vercel, and MDX. I'm currently looking for a new role on a technical writing team. 
 
 ### Favorite projects 
